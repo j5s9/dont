@@ -1,7 +1,7 @@
 name: dont
 description: A Lightweight Flutter State Management you shouldn't use.
 version: 0.0.1
-homepage:
+repository: https://github.com/j5s9/dont
 
 environment:
   sdk: '>=3.1.5 <4.0.0'
@@ -19,7 +19,7 @@ dev_dependencies:
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
-# The following section is specific to Flutter packages.
+
 flutter:
 
   # To add assets to your package, add an assets section, like this:
